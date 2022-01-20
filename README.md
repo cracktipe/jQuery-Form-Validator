@@ -1,4 +1,4 @@
-# jQuery Form Validator [DISCONTINUED]
+# jQuery Form Validator [SOPORTE POR AHIEZER JULCA BLAS DESDE EL 2022]
 
 *Validation framework that let's you configure, rather than code, your validation logic.*
 
